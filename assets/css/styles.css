@@ -1,0 +1,57 @@
+/* admin */
+
+
+
+/* home */
+.navbar-brands img{
+    height: 100px;
+}
+.navbar-toggler{
+    margin-bottom: 10px;
+}
+.carousel{
+    margin-top: 20px;
+}
+
+
+
+
+
+.row{
+    margin-top: 10px;
+}
+.card.card-links{
+    height: 200px;
+    width: 300px;
+    background: #2e8ce4;
+}
+
+
+
+
+
+.justify{
+    text-align: justify;
+
+}
+#displaytable{
+    height: 200px;
+}
+
+
+
+
+/* maps */
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:401px;
+    width:755px;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:401px;
+    width:755px;
+}
+
